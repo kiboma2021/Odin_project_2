@@ -1,0 +1,26 @@
+*{
+    color: white;
+    background-color: green;
+} /* this is universal selector */
+
+
+/* below are type selectors */
+div{
+    color: red;
+}
+
+h3{
+    color: orange;
+}
+
+/* Class selectors */
+
+.heading-text{
+    color: yellow;
+}
+
+/* ID selectors */
+
+#sub-title-text{
+    color: red;
+}
